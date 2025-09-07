@@ -14,7 +14,8 @@ It is inspired by DigiValet’s focus on improving guest experiences.
 - WordCloud, Matplotlib
 
 ## Run on Google Colab
-[![Open In Colab](https://colab.research.google.com/drive/13KoxeWMhBZpEYpeXbNBzsiJDv4x15yXE?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13KoxeWMhBZpEYpeXbNBzsiJDv4x15yXE?usp=drive_link)
+
 
 
 ## Results
